@@ -7,6 +7,11 @@
     title="Python" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left"
+    alt="HTML"
+    title="Pandas"
+    width="30px"
+    src="pnpm dlx shadcn@latest add https://i.allsvgicons.com/r/devicon:pandas.json"/>
 
 <br/>
 <br/>
