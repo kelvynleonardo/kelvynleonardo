@@ -2,16 +2,24 @@
 
 ## 🤖 Minhas linguagens
 
-<img align="left" 
+<img 
+    align="left" 
     alt="HTML"
     title="Python" 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left"
+<img 
+    align="left"
     alt="HTML"
     title="Pandas"
     width="30px"
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+<img 
+    align="left"
+    alt="HTML"
+    title="Pandas"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
 
 <br/>
 <br/>
