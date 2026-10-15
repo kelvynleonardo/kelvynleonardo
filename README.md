@@ -11,7 +11,7 @@
     alt="HTML"
     title="Pandas"
     width="30px"
-    src="pnpm dlx shadcn@latest add https://i.allsvgicons.com/r/devicon:pandas.json"/>
+    img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
 
 <br/>
 <br/>
