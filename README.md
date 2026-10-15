@@ -20,6 +20,12 @@
     title="Pandas"
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img
+    align="left"
+    alt="HTML"
+    title="Pandas"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
 
 <br/>
 <br/>
